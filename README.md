@@ -1,4 +1,4 @@
-# ADVENTURE-WORK-IN-POWER-BI
+# ADVENTURE-WORK ANALYSIS-IN-POWER-BI
 Loaded messy data into Power BI
 Cleaning up messy data in Power BI
 Removing unnecessary rows
